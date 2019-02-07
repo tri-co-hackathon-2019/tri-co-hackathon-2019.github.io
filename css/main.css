@@ -115,6 +115,11 @@ img {
   background-image: url({{ site.navbar-img }});
   background-attachment: fixed;
   {% endif %}
+
+}
+
+.navbar-custom.navbar-default .navbar-collapse {
+  border-color: rgba(255,255,255,0);
 }
 
 .navbar-custom .nav li a {
@@ -238,6 +243,11 @@ img {
   font-weight: normal;
 }
 @media only screen and (max-width: 767px) {
+
+  .navbar-custom.navbar-fixed-top {
+    min-height: 125px;
+    position: unset;
+  }
   .navbar-custom .nav .navlinks-container.show-children {
     background: rgba(0, 0, 0, 0.2);
   }
