@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Schedule
 ---
 
 ### WEDNESDAY (2/5)

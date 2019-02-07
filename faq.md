@@ -1,5 +1,6 @@
 ---
 layout: page
+title: FAQ
 ---
 
 ### How do I submit my project code?
