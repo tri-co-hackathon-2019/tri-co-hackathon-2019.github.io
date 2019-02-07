@@ -2,8 +2,6 @@
 layout: page
 ---
 
-# Schedule
-
 ### WEDNESDAY (2/5)
 
 #### 6pm in HC DC/Bryn Mawr Room.

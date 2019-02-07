@@ -2,8 +2,6 @@
 layout: page
 ---
 
-# FAQ
-
 ### How do I submit my project code?
 
 1. Fork [the repo template](https://github.com/tri-co-hackathon-2019/repo-template) from the [hackathon's github organization](https://github.com/tri-co-hackathon-2019).
